@@ -1,6 +1,6 @@
 # Anime Style Transfer with Cycle GAN
 
-This project uses a Cycle GAN model with identity loss to translate natural images into Vang Gogf-style images. 
+This project uses a Cycle GAN model with identity loss to translate natural images into Vang Gogf-style images.
 
 <table align="left">
   <td>
@@ -29,13 +29,11 @@ These are the outputs samples from the model along with the inputs.
 1. Clone the repository:
    bash
    
-   https://github.com/mahathibodela/Photo_to_VangGogh_style_converterr.git
+  ` https://github.com/mahathibodela/Photo_to_VangGogh_style_converterr.git`
    
 
 3. Install the required dependencies:
-   bash
-   
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
    
 
 ## Usage
