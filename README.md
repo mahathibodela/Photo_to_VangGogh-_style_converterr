@@ -1,4 +1,4 @@
-# Anime Style Transfer with Cycle GAN
+# Vang Gogh Style Transfer with Cycle GAN
 
 This project uses a Cycle GAN model with identity loss to translate natural images into Vang Gogf-style images.
 
