@@ -28,11 +28,13 @@ These are the outputs samples from the model along with the inputs.
 
 1. Clone the repository:
    bash
+   
    https://github.com/mahathibodela/Photo_to_VangGogh_style_converterr.git
    
 
 3. Install the required dependencies:
    bash
+   
    pip install -r requirements.txt
    
 
