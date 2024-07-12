@@ -20,10 +20,8 @@ This project uses a Cycle GAN model with identity loss to translate natural imag
 
 
 ## Sample
-
-![phto sample](https://github.com/mahathibodela/Photo_to_VangGogh_style_converterr/blob/master/VangGoghGAN/checkpoints/gen_VangGogh.pth)
-<i>The above results are generated from sample phtographs taken by [Mahathi Bodela](https://github.com/mahathibodela) the first row shows the real images taken from camera the second row shows the generated anime images in Hayao Miyazaki's style and the 3rd row shows the images taken in Makoto Shinkai's style<i>
-#### PC: [Mahathi Bodela](https://github.com/mahathibodela)
+These are the outputs samples from the model along with the inputs.
+![WhatsApp Image 2024-07-12 at 23 21 55_663b2f9b](https://github.com/user-attachments/assets/6855bb74-2e6a-4e8b-b461-3154fdb15b6b)
 
 
 ## Installation
