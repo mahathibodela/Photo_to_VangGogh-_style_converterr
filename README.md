@@ -53,4 +53,4 @@ Download the pretrained model from this link for [Vang Gogf's](https://github.co
 Datasets used are [Vang Gogf images](https://www.kaggle.com/datasets/icode100/cycleganvangogf/data), [Real images](https://www.kaggle.com/competitions/gan-getting-started/data?select=photo_jpg)
 ## Training
 
-To look for the training references look up for the code directory and the jupyter notebooks in training_notebooks directory.
+To look for the training references look up for the `code` directory and the jupyter notebooks in `training_notebooks` directory.
